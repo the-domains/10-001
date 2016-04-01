@@ -1,0 +1,28 @@
+name: '10,001'
+favicon: null
+layout_spectrum: 0.4843032720964402
+typography_spectrum: 0.12128924811258912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7549449317157269
+  lightness: 0.6709429605398327
+  saturation: 0.05675473134033382
+  rhythmicContrast: 0.34087223722599447
+purpose: []
